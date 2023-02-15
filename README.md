@@ -1,4 +1,4 @@
-# ``API``
+# ``laxAPI``
 [![Contact](https://img.shields.io/badge/contact-solomon-blue)](mailto:solomon98@gmail.com)
 [![Version](http://img.shields.io/badge/version-1.0-green.svg?style=flat)](https://github.com/solomonkim98/API)
 
